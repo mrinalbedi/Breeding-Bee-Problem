@@ -1,0 +1,33 @@
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\final assignment\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\MainWindow.g.cs
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\final assignment\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\App.g.cs
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\final assignment\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\BreedingBeesProblem_MarkupCompile.cache
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\final assignment\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\BreedingBeesProblem_MarkupCompile.lref
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\final assignment\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\InfoWindow.g.cs
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\final assignment\BreedingBeesProblem\BreedingBeesProblem\bin\Debug\BreedingBeesProblem.exe.config
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\final assignment\BreedingBeesProblem\BreedingBeesProblem\bin\Debug\BreedingBeesProblem.exe
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\final assignment\BreedingBeesProblem\BreedingBeesProblem\bin\Debug\BreedingBeesProblem.pdb
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\final assignment\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\InfoWindow.baml
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\final assignment\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\MainWindow.baml
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\final assignment\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\BreedingBeesProblem.g.resources
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\final assignment\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\BreedingBeesProblem.Properties.Resources.resources
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\final assignment\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\BreedingBeesProblem.csproj.GenerateResource.cache
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\final assignment\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\BreedingBeesProblem.exe
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\final assignment\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\BreedingBeesProblem.pdb
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\final assignment\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\BreedingBeesProblem.csprojAssemblyReference.cache
+E:\BreedingBeesProblem\BreedingBeesProblem\BreedingBeesProblem\bin\Debug\BreedingBeesProblem.exe.config
+E:\BreedingBeesProblem\BreedingBeesProblem\BreedingBeesProblem\bin\Debug\BreedingBeesProblem.exe
+E:\BreedingBeesProblem\BreedingBeesProblem\BreedingBeesProblem\bin\Debug\BreedingBeesProblem.pdb
+E:\BreedingBeesProblem\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\BreedingBeesProblem.csprojAssemblyReference.cache
+E:\BreedingBeesProblem\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\InfoWindow.g.cs
+E:\BreedingBeesProblem\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\MainWindow.g.cs
+E:\BreedingBeesProblem\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\App.g.cs
+E:\BreedingBeesProblem\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\BreedingBeesProblem_MarkupCompile.cache
+E:\BreedingBeesProblem\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\BreedingBeesProblem_MarkupCompile.lref
+E:\BreedingBeesProblem\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\InfoWindow.baml
+E:\BreedingBeesProblem\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\MainWindow.baml
+E:\BreedingBeesProblem\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\BreedingBeesProblem.g.resources
+E:\BreedingBeesProblem\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\BreedingBeesProblem.Properties.Resources.resources
+E:\BreedingBeesProblem\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\BreedingBeesProblem.csproj.GenerateResource.cache
+E:\BreedingBeesProblem\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\BreedingBeesProblem.csproj.CoreCompileInputs.cache
+E:\BreedingBeesProblem\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\BreedingBeesProblem.exe
+E:\BreedingBeesProblem\BreedingBeesProblem\BreedingBeesProblem\obj\Debug\BreedingBeesProblem.pdb

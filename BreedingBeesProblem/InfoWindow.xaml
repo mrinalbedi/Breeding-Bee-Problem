@@ -1,0 +1,39 @@
+﻿<Window x:Class="BreedingBeesProblem.InfoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BreedingBeesProblem"
+        mc:Ignorable="d"
+        Title="Professor B. Heif Needs Your Help!" Height="500" Width="800" ResizeMode="CanMinimize" Icon="Resources/icon.png">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Resources/background.jpg" Opacity="0.5"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <GroupBox Header="The Problem" Margin="10" BorderBrush="#AF8785" BorderThickness="0.5">
+            <TextBlock TextWrapping="WrapWithOverflow" Margin="5" FontSize="13">
+                "Professor B. Heif is conducting experiments with a species of South American bees that he found
+                during an expedition to the Brazilian rain forest. The honey produced by these bees is of superior
+                quality compared to the honey from European and North American honey bees. Unfortunately,
+                the bees do not breed well in captivity. Professor Heif thinks the reason is that the placement of
+                the different maggots (for workers, queens, etc.) within the honeycomb depends on
+                environmental conditions, which are different in his laboratory and the rain forest.
+                <LineBreak></LineBreak>
+                <LineBreak></LineBreak>
+                As a first step to validate his theory, Professor Heif wants to quantify the difference in maggot
+                placement. For this he measures the distance between the cells of the comb into which the
+                maggots are placed. To this end, the professor has labeled the cells by marking an arbitrary cell
+                as number 1, and then labeling the remaining cells in a clockwise fashion, as shown in the
+                following figure."
+                <LineBreak></LineBreak>
+                <LineBreak></LineBreak>
+                This Program Computes the distance, defined as the number of cells in a shortest path, between any pair of cells
+            </TextBlock>
+        </GroupBox>
+        <Image Grid.Column="1" Source="Resources/picture.JPG" Margin="30"/>
+    </Grid>
+</Window>
